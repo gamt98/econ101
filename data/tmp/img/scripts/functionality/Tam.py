@@ -1,1 +1,1 @@
-Tam
+print('hello')
